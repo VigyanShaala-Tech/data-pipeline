@@ -1,5 +1,5 @@
 
-## Welcome to the "Source" Folder
+## Welcome to the "Data" Folder
 
 This repository contains the necessary source files and information for the Kalpana Incubator. The data remapping is an essential step in the incubator code, involving the conversion, cleaning, and analysis of student information.
 
