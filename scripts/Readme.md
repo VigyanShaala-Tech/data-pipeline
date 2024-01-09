@@ -1,6 +1,6 @@
-# Kalpana Incubator Data Remapping
+# Kalpana Incubator
 
-Welcome to the "Code" folder of the Kalpana Incubator Data Remapping. This repository contains scripts and code snippets for processing and cleaning data from various sources related to student information. The goal is to extract, clean, and store data in both MySQL databases and Excel files for analysis and reporting purposes.
+Welcome to the "Code" folder of the Kalpana Incubator. This repository contains scripts and code snippets for processing and cleaning data from various sources related to student information. The goal is to extract, clean, and store data in both MySQL databases and Excel files for analysis and reporting purposes.
 
 ## Folder Structure:
 
@@ -8,7 +8,6 @@ Welcome to the "Code" folder of the Kalpana Incubator Data Remapping. This repos
    - This folder contains code for extracting general information about students from various source files. The data is cleaned and stored in both MySQL and Excel files.
 
 2. **02_Code_Kalpana Incubator:**
-   - **02_Code_Kalpana Incubator:**
      - Code for cleaning data related to student watch time of our course coming from Graphy.
 
 3. **03_Code_Kalpana Weekly Attendance:**
