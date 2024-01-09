@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Kalpana Data Pipeline repository! This project is designed to facilitate the cleaning and transformation of data from various sources, such as graphs and documents. The processed data is then stored in a MySQL database, and Excel files are generated for further analysis and reporting.
+Welcome to the Kalpana Data Pipeline repository! This project is designed to facilitate the cleaning and transformation of data from various sources, such as graphy and form. The processed data is then stored in a MySQL database, and Excel files are generated for further analysis and reporting.
 
 ## Folder Structure
 
