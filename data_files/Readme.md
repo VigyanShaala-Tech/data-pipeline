@@ -14,15 +14,11 @@ This repository contains the necessary source files and information for the Kalp
    - This folder contains data obtained from Graphy, offering valuable information related to the incubator program.
    - The data here is essential for the incubator code, facilitating various processes within the program.
 
-3. **02_Source_Kalpana Incubator WN:**
-   - Similar to the previous folder, this source folder also contains data obtained from Graphy.
-   - However, the data within this folder lacks notations, making it suitable for use with code that doesn't rely on notations.
-
-4. **03_Source_Kalpana Quiz Review:**
+3. **03_Source_Kalpana Quiz Review:**
    - This folder consists of quiz files obtained from Graphy, including information related to SWOT analysis, IDP, critical thinking, and more.
    - These quiz files are utilized for thorough data analysis.
 
-5. **04_Source_Kalpana Assignment Review:**
+4. **04_Source_Kalpana Assignment Review:**
    - In this folder, you will find assignment files collected either through web scraping or from the assignment checking team.
    - These assignment files serve as a valuable source for data analysis and evaluation.
 
